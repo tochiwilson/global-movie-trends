@@ -1,2 +1,2 @@
-# netflix-sentiment-analysis
-Analysis of Kaggle movie datasets to explore whether films with more positive public sentiment are more likely to be available on Netflix.
+# global-movie-trends
+Analysis of global movie production and ratings using open datasets from Kaggle, with a focus on geographic distribution and population-adjusted trends.
