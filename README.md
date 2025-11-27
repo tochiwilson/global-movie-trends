@@ -72,5 +72,5 @@ Please download the datasets from the links below and place them in the folders 
     * Scroll to the bottom to see the interactive dashboard.
 
 ## 👤 Author
-**[Wilson Tochi Uduma]** Student Applied Computer Science: Artificial Intelligence
-*Project for [Data Visualization - AP Hogeschool Antwerpen]*
+**Wilson Tochi Uduma** Student Applied Computer Science: Artificial Intelligence
+*Project for Data Visualization*
